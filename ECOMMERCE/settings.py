@@ -13,7 +13,7 @@ SECRET_KEY = env.str("SECRET_KEY")
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['live48.uz']
+ALLOWED_HOSTS = ['24live.uz']
 
 INSTALLED_APPS = [
     'modeltranslation',
